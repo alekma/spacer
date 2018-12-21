@@ -1,5 +1,5 @@
 # spacer
-Nowa apka do nauki REST API
+
 ## Project setup
 ```
 npm install
